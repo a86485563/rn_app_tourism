@@ -7,7 +7,7 @@ import TourismList from './components/TourismList';
 export default function App() {
   return (
   <View>
-    <Header headerText="My Albums" />
+    <Header headerText="Tourism" />
     <TourismList />
   </View>
   );
